@@ -1,1 +1,2 @@
 # Logistic-regression-using-std-dataset
+This is a machine learning model tht performs logistic regression that is trained on the dataset of Sexually Transmitted Diseases(California) that contains information about reported cases of sexually transmitted diseases (STDs) (chlamydia, gonorrhea, and early syphilis, which includes primary, secondary, and early latent syphilis) across different counties in the United States from the year 2001 to 2021.
